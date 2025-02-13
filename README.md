@@ -27,5 +27,5 @@ jupyter notebook untitled8.ipynb
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions, reach out at: [your-email@example.com]
+For any questions, reach out at: [kanusha5431@gmail.com]
 
